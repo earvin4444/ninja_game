@@ -1,1 +1,2 @@
-# project_csc171
+# Ninja Game
+Made to test knowledge on JavaFX technology.
